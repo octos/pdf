@@ -3,19 +3,21 @@ pdftk
 qpdf
 cpdf
 
-## Markdown > PDF (Online)
+## Convert to PDF
+
+### Markdown > PDF (Online)
 http://markdown2pdf.com/index.html
 
-## HTML > PDF (CLI)
+### HTML > PDF (CLI)
 https://wkhtmltopdf.org/
 
-## Markdown > PDF (CLI)
+### Markdown > PDF (CLI)
 
-## Other
+### Other
 https://github.com/rhysd/open-pdf.vim
 
 
-### Create blank PDF
+#### Create blank PDF
 http://unix.stackexchange.com/questions/277892/how-do-i-create-a-blank-pdf-from-the-command-line
     convert xc:none -page Letter blankLetter.pdf    
 or
